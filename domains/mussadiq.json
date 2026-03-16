@@ -1,1 +1,9 @@
-
+{
+  "owner": {
+    "username": "mussadiq-ali",
+    "email": "ali11mussadiq@gmail.com"
+  },
+  "record": {
+    "CNAME": "mussadiq-ali-portfolio.vercel.app"
+  }
+}
